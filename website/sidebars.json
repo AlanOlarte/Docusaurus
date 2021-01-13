@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Node.JS": ["node"],
+    "API REST": ["api_rest"],
+    "Ejemplo": ["example"]
+  }
+}
